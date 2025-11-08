@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Interstellar",
+    "year": 2014,
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "poster": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Batman",
+    "year": 2022,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Dune: Part One",
+    "year": 2021,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w500/bAFmcrCfq6eEjm5uhsKZ3VhWl5N.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Joker",
+    "year": 2019,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+  }
+]
