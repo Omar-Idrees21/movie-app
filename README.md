@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Movie App
 
 A modern and elegant **React.js movie browsing application** built by **Omar Mosab Idrees Idrees**.  
@@ -91,3 +92,7 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser 🚀
 
 ⭐ *If you like this project, give it a star on GitHub!*  
 🎥 “Built with passion and pixels — by Omar Mosab Idrees.”
+=======
+# movie-app
+movie app
+>>>>>>> e61bfc8c7aaddc00b930da78f0fce63fa68352b7
