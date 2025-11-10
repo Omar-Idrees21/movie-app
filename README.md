@@ -77,8 +77,7 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser 🚀
 
 | Home Page | Movie Details |
 |------------|----------------|
-![Home Screenshot](./assets/screenshot_home.png)
-![Details Screenshot](./assets/screenshot_details.png)
+![Home Screenshot](https://raw.githubusercontent.com/Omar-Idrees21/movie-app/main/assets/screenshot_home.png)
 
 
 ---
