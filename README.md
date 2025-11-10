@@ -77,7 +77,9 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser 🚀
 
 | Home Page | Movie Details |
 |------------|----------------|
-| ![Home](assets/screenshot_home.png) | ![Details](assets/screenshot_details.png) |
+![Home Screenshot](./assets/screenshot_home.png)
+![Details Screenshot](./assets/screenshot_details.png)
+
 
 ---
 
