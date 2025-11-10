@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎬 Movie App
 
 A modern and elegant **React.js movie browsing application** built by **Omar Mosab Idrees Idrees**.  
@@ -51,7 +50,7 @@ Follow these steps to run the project locally 👇
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/yourusername/movie-app.git
+git clone https://github.com/Omar-Idrees21/movie-app.git
 ```
 
 ### 2️⃣ Navigate to the project folder
@@ -77,8 +76,7 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser 🚀
 
 | Home Page | Movie Details |
 |------------|----------------|
-![Home Screenshot](https://raw.githubusercontent.com/Omar-Idrees21/movie-app/main/assets/screenshot_home.png)
-
+| ![Home Screenshot](src/assets/screenshot_home.png) | ![Details Screenshot](src/assets/screenshot_details.png) |
 
 ---
 
@@ -93,7 +91,3 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser 🚀
 
 ⭐ *If you like this project, give it a star on GitHub!*  
 🎥 “Built with passion and pixels — by Omar Mosab Idrees.”
-=======
-# movie-app
-movie app
->>>>>>> e61bfc8c7aaddc00b930da78f0fce63fa68352b7
